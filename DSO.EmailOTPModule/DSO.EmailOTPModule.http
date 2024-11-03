@@ -1,0 +1,6 @@
+@DSO.EmailOTPModule_HostAddress = http://localhost:5062
+
+GET {{DSO.EmailOTPModule_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
