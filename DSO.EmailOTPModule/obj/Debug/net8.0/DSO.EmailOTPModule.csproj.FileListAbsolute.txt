@@ -17,6 +17,7 @@ C:\Apsara\Projects\DSO\DSO.EmailOTPModule\obj\Debug\net8.0\DSO.EmailOTPModule.As
 C:\Apsara\Projects\DSO\DSO.EmailOTPModule\obj\Debug\net8.0\DSO.EmailOTPModule.csproj.CoreCompileInputs.cache
 C:\Apsara\Projects\DSO\DSO.EmailOTPModule\obj\Debug\net8.0\DSO.EmailOTPModule.MvcApplicationPartsAssemblyInfo.cs
 C:\Apsara\Projects\DSO\DSO.EmailOTPModule\obj\Debug\net8.0\DSO.EmailOTPModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Apsara\Projects\DSO\DSO.EmailOTPModule\obj\Debug\net8.0\DSO.EmailOTPModule.sourcelink.json
 C:\Apsara\Projects\DSO\DSO.EmailOTPModule\obj\Debug\net8.0\staticwebassets.build.json
 C:\Apsara\Projects\DSO\DSO.EmailOTPModule\obj\Debug\net8.0\staticwebassets.development.json
 C:\Apsara\Projects\DSO\DSO.EmailOTPModule\obj\Debug\net8.0\staticwebassets\msbuild.DSO.EmailOTPModule.Microsoft.AspNetCore.StaticWebAssets.props

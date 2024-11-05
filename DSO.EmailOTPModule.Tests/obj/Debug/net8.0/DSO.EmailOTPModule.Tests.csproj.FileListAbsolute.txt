@@ -1,0 +1,7 @@
+C:\Apsara\Projects\DSO\DSO.EmailOTPModule.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_DSO.EmailOTPModule.Tests
+C:\Apsara\Projects\DSO\DSO.EmailOTPModule.Tests\obj\Debug\net8.0\DSO.EmailOTPModule.Tests.csproj.AssemblyReference.cache
+C:\Apsara\Projects\DSO\DSO.EmailOTPModule.Tests\obj\Debug\net8.0\DSO.EmailOTPModule.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apsara\Projects\DSO\DSO.EmailOTPModule.Tests\obj\Debug\net8.0\DSO.EmailOTPModule.Tests.AssemblyInfoInputs.cache
+C:\Apsara\Projects\DSO\DSO.EmailOTPModule.Tests\obj\Debug\net8.0\DSO.EmailOTPModule.Tests.AssemblyInfo.cs
+C:\Apsara\Projects\DSO\DSO.EmailOTPModule.Tests\obj\Debug\net8.0\DSO.EmailOTPModule.Tests.csproj.CoreCompileInputs.cache
+C:\Apsara\Projects\DSO\DSO.EmailOTPModule.Tests\obj\Debug\net8.0\DSO.EmailOTPModule.Tests.sourcelink.json
